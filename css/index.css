@@ -111,6 +111,9 @@ header .btn-doc{
     padding: 20px 0 0;
     border-top: 1px solid #ebebeb;
 }
+.post img {
+    width: 100%;
+}
 .sidebar{
     padding-left: 15px;
     padding-right: 15px;
